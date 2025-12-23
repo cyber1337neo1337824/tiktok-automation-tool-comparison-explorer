@@ -1,7 +1,6 @@
 # TikTok Automation Tool Comparison & Explorer
 
-> A reference and experimentation toolkit for evaluating and comparing TikTok automation tools, features, and workflows.  
-> It helps you assess options beyond Jarvee, compare capabilities, and organize automation strategy for many accounts safely and systemically.
+> A reference and experimentation toolkit for evaluating and comparing TikTok automation tools, features, and workflows. It helps you assess options beyond Jarvee, compare capabilities, and organize automation strategy for many accounts safely and systemically.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
